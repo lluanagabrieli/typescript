@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "ESNext", //versão mais atual do JS
+    "outDir": "./build",
+    "forceConsistentCasingInFileNames": true,
+    "strict": true
+  }
+}
+
+// tsc -w: faz a compilação automaticamente
